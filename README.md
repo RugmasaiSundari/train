@@ -1,2 +1,2 @@
 # train
-train repository
+train repository for git commands demonstration
